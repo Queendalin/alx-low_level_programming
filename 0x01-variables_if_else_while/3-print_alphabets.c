@@ -7,11 +7,12 @@
  */
 int main(void)
 {
+	//M-x delete-trailing-whitespace//
 char alp[52] = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
        int i;
 
        for (i = 0; i < 52; i++)
-       {       
+       {      
 	       putchar(alp[i]);
        }
        putchar('\n');
