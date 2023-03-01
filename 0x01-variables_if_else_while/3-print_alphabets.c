@@ -6,8 +6,7 @@
  * Return: Always 0 (Success)
  */
 int main(void)
-{
-	//M-x delete-trailing-whitespace//
+{	
 char alp[52] = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
        int i;
 
