@@ -13,7 +13,7 @@ _putchar('u');
 _putchar('t');
 _putchar('c');
 _putchar('h');
-_putchat('a');
+_putchar('a');
 _putchar('r');
 _putchar('\n');
 return (0);
