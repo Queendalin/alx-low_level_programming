@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * _strspn - Entry point
- * @s: input num of bytes in the initial segment
+ * @s: input
  * @accept: input
  * Return: Always 0 (Success)
  */
