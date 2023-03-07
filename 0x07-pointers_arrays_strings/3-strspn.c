@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- * _strspn - Entry point
+ * unsigned int - Entry point
  * @s: input
  * @accept: input
- * Return: Always 0 (Success)
+ * Return: The nub of bytes
  */
 unsigned int _strspn(char *s, char *accept)
 {
