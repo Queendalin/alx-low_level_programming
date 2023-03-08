@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * _strspn - the length of a prefix substring
  * @s: input
