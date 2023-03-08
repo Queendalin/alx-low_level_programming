@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- * unsigned int - Entry point
+ * _strspn - the length of a prefix substring
  * @s: input
  * @accept: input
- * Return: The nub of bytes
+ * Return: the length of a prefix substring n.
  */
 unsigned int _strspn(char *s, char *accept)
 {
